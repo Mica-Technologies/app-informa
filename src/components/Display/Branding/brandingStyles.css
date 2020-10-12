@@ -1,0 +1,18 @@
+@import '../../../styles/fonts/Audiowide/audiowide.font.css';
+
+.logoImage {
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.logoText {
+    margin-top: 10px;
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
+
+.logoMenuElement {
+    -webkit-app-region: no-drag;
+    -webkit-user-select: auto;
+}
